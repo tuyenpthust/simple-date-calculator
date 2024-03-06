@@ -1,4 +1,4 @@
-import {calculateDate} from "calculating-date";
+import {calculateDate} from "simple-date-calculator";
 
 // day different = [{ dayDiff: 2 }]
 console.log(calculateDate("2022-04-15", "2022-04-17"));
