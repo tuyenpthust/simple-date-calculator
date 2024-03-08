@@ -7,7 +7,7 @@ This is a package module javascript for calculate the distance between two point
 Use npm, make sure your npm is up to date.
 
 ```
-npm install calculating-date
+npm install simple-date-calculator
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install calculating-date
 (date, date, details) type parameter
 
 ```javascript
-import calculating_date from "calculating-date";
+import calculating_date from "simple-date-calculator";
 
 const distance = calculating_date.calculateDate(startDate, endDate, true);
 ```
@@ -40,7 +40,7 @@ const distance = calculating_date.calculateDate(startDate, endDate, true);
 2. script.js
 
 ```javascript
-const calculateDate = require("calculating-date");
+const calculateDate = require("simple-date-calculator");
 const startDate = document.querySelector("input[name=startDate]");
 const endDate = document.querySelector("input[name=endDate]");
 
@@ -51,7 +51,7 @@ console.log(distance);
 (test.mjs)
 
 ```javascript
-import { calculateDate } from "calculating-date";
+import { calculateDate } from "simple-date-calculator";
 
 // day different = [{ dayDiff: 2 Day }]
 console.log(calculateDate("2022-04-15", "2022-04-17"));
@@ -66,7 +66,7 @@ console.log(calculateDate("2022-04-15", "2023-06-17"));
 (test.js)
 
 ```javascript
-const calculating_date = require("calculating-date");
+const calculating_date = require("simple-date-calculator");
 
 // day different = [{ dayDiff: 2 Day }]
 console.log(calculateDate("2022-04-15", "2022-04-17"));
