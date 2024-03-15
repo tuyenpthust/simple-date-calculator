@@ -1,4 +1,4 @@
-# What is this?
+# What is this for?
 
 This is a package module javascript for calculate the distance between two points.
 
