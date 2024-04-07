@@ -18,9 +18,9 @@
     "url": "git+https://github.com/tuyenpthust/simple-date-calculator.git"
   },
   "bugs": {
-    "url": "https://github.com/tuyenpthust/simple-ratelimiter/issues"
+    "url": "https://github.com/tuyenpthust/simple-date-calculator/issues"
   },
-  "homepage": "https://github.com/tuyenpthust/simple-ratelimiter#readme",
+  "homepage": "https://github.com/tuyenpthust/simple-date-calculator#readme",
   "directories": {
     "test": "test"
   },
