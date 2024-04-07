@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "simple-date-calculator",
-  "version": "1.1.13",
+  "version": "1.1.15",
   "description": "This is for calculate date from startDate and endDate",
   "main": "mymodule.mjs",
   "scripts": {
